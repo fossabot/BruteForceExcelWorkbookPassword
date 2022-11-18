@@ -1,6 +1,7 @@
 # BruteForceExcelWorkbookPassword
 
 ![Powershell](https://github.com/PartTimeLegend/BruteForceExcelWorkbookPassword/workflows/Powershell/badge.svg) [![Codacy Security Scan](https://github.com/PartTimeLegend/BruteForceExcelWorkbookPassword/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/PartTimeLegend/BruteForceExcelWorkbookPassword/actions/workflows/codacy-analysis.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPartTimeLegend%2FBruteForceExcelWorkbookPassword.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPartTimeLegend%2FBruteForceExcelWorkbookPassword?ref=badge_shield)
 
 Ever forgot your password for an Excel Workbook? Me neither! However some people do.
 
@@ -17,3 +18,7 @@ This may take a long time, and may also never actually find your password if it 
 
 ### Password for example book1.xslx
 "password" at least I think it is. Try it and see.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPartTimeLegend%2FBruteForceExcelWorkbookPassword.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPartTimeLegend%2FBruteForceExcelWorkbookPassword?ref=badge_large)
